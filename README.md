@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Leonardo Mendes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=268F77&background=268F770D&center=true&vCenter=true&lines=Front-End+Developer;Digital+Illustrator;I+love+Donkey+Kong+%3C3)](https://git.io/typing-svg"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=27&color=268F77&background=268F770D&center=true&vCenter=true&width=1200&lines=Front-End+Developer;Digital+Illustrator;I+love+Donkey+Kong+%3C3"></a>
 </div>
 
 <div align="center">
