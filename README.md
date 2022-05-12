@@ -4,17 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=268F77&background=268F770C&center=true&vCenter=true&lines=Front-End+Developer;Digital+Illustrator;I+love+Donkey+Kong+%3C3"></a>
 </div>
 
-
-
 <div align="center">
 <a><img width="500" src=https://64.media.tumblr.com/56f4ed8b8c40eb96935bb80d6209145c/tumblr_nmv5teCnag1r1rrxzo1_540.gifv></a>
  <div/>
- 
- 
 
- 
- 
-  <br>
  <div align="center">
 <a href="https://www.linkedin.com/in/leonardo-mendes-8aba41229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://instagram.com/sunkzzzzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
