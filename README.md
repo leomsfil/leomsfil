@@ -31,3 +31,6 @@
       <img src="https://img.icons8.com/color/48/000000/git.png"/>
       <img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/>
   </div>
+  
+  
+  <!--[Snake animation]--><img height="145" src="https://github.com/leomsfil/leomsfil/blob/output/github-contribution-grid-snake.svg"/>
