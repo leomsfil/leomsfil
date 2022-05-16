@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a><img width="500" src=https://64.media.tumblr.com/56f4ed8b8c40eb96935bb80d6209145c/tumblr_nmv5teCnag1r1rrxzo1_540.gifv></a>
+<a><img width="400" src=/assets/donkey_kong.gif></a>
  <div/>
 
  <div align="center">
