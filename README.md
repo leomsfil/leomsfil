@@ -8,12 +8,9 @@
 <a><img width="350" src=/assets/donkey_kong.gif></a>
  <div/>
 
- <div align="center">
-<a href="https://www.linkedin.com/in/leonardo-mendes-8aba41229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/sunkzzzzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:leonardo.msfil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <div/>
-<br>
+[![linkedin](https://img.shields.io/badge/linkedin-2AA889?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mendes-8aba41229)
+[![gmail](https://img.shields.io/badge/gmail-2AA889?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.msfil@gmail.com)
+  
 <br>
 <div align="center">
 <a href="https://github.com/leomsfil">
