@@ -32,5 +32,7 @@
   
   
   <!--[Snake animation]--><img src="https://github.com/leomsfil/leomsfil/blob/output/github-contribution-grid-snake.svg"/>
+<br>
+<br>
 
   ![leomsfil](https://komarev.com/ghpvc/?username=leomsfil)
