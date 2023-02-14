@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a><img width="350" src=/assets/computer.gif></a>
+<a><img width="350" src=/assets/donkey_kong.gif></a>
  <div/>
 
 [![linkedin](https://img.shields.io/badge/linkedin-2AA889?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mendes-8aba41229)
